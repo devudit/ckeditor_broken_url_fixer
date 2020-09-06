@@ -1,0 +1,5 @@
+name: Ckeditor Broken URL Fixer
+type: module
+description: 'Ckeditor broken url fixer, It removes broken external and internal url but keeps text.'
+package: CKEditor
+core_version_requirement: ^8.7.7 || ^9

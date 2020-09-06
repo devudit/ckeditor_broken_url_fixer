@@ -1,0 +1,16 @@
+{
+    "name": "drupal/ckeditor_broken_url_fixer",
+    "description": "Ckeditor broken url fixer, It removes broken external and internal url but keeps text.",
+    "type": "drupal-module",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Udit Rawat",
+            "email": "eklavyarwt@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "drupal/core": "^8.7.7 || ^9"
+    }
+}

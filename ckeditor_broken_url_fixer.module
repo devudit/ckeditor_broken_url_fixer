@@ -1,0 +1,12 @@
+<?php
+/**
+ * Ckeditor Broken URL Fixer - Ckeditor broken url fixer, It removes broken
+ * external and internal url but keeps text.
+ *
+ * @package     ckeditor_broken_url_fixer
+ * @author      Udit Rawat <eklavyarwt@gmail.com>
+ * @link        http://sarovarcreative.com/
+ * @copyright   SarovarCreative
+ * Date:        05/09/2020
+ * Time:        07:46 PM
+ */
